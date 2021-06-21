@@ -7,6 +7,7 @@
         <video
           controls
           autoplay
+          loop
           :src="url"
         ></video>
       </div>
